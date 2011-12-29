@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = FastRandom::VERSION
   s.authors     = ["xdite"]
   s.email       = ["xuite.joke@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/xdite/fast_random"
+  s.summary     = %q{ultra fast order by rand() solution, see http://jan.kneschke.de/projects/mysql/order-by-rand/}
+  s.description = %q{ultra fast order by rand() solution, see http://jan.kneschke.de/projects/mysql/order-by-rand/}
 
   s.rubyforge_project = "fast_random"
 
@@ -22,3 +22,4 @@ Gem::Specification.new do |s|
   # s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
 end
+
